@@ -4,14 +4,14 @@ import "./News.css";
 import "./NewsApp.css";
 
 function NewsApp() {
-  const apiKey = "7a674400334e42a09d28f94043267b98";
+  const apiKey = "746dbfb9998949f2942eb522db75b93f";
 
   const [newsList, setnewsList] = useState([]);
   const [query, setQuery] = useState("tesla");
   const queryInputRef = useRef(null);
 
   useEffect(() => {
-    const apiUrl = `https://newsapi.org/v2/everything?q=${query}&from=2023-02-12&sortBy=publishedAt&apiKey=${apiKey}`;
+    const apiUrl = `https://newsapi.org/v2/everything?q=${query}&from=2023-06-04&sortBy=publishedAt&apiKey=${apiKey}`;
 
     async function fetchData() {
       const response = await fetch(apiUrl);
