@@ -11,7 +11,7 @@ function NewsApp() {
   const queryInputRef = useRef(null);
 
   useEffect(() => {
-    const apiUrl = `https://newsapi.org/v2/everything?q=${query}&from=2023-06-04&sortBy=publishedAt&apiKey=${apiKey}`;
+    const apiUrl = `https://newsapi.org/v2/everything?q=${query}&from=2023-06-05&sortBy=publishedAt&apiKey=${apiKey}`;
 
     async function fetchData() {
       const response = await fetch(apiUrl);
