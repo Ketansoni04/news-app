@@ -4,7 +4,9 @@ DailyNews is a News Website where one can read latest  and trending news.
 It main features are :
 
 ● Access and read the infortion and full news articles.
+
 ● Can searh news on any topic.
+
 ● It is responsive to different devises.
 
 https://github.com/Ketansoni04/news-app/assets/123319793/a5139185-c545-4769-9c29-94e79a93c365
