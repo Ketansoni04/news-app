@@ -1,13 +1,11 @@
 # news-app 
-DailyNews is a News Website where one can read variety of news and tring upates. this enables to read news open the artices and get whole news article.
+DailyNews is a News Website where one can read latest  and trending news.
 
 It main features are :
 
-● Acces and read the infortion and full news articles.
-
-● Can searh news on any topicand his/her interst
-
-● can find the trendin and latest news on the hot topics
+● Access and read the infortion and full news articles.
+● Can searh news on any topic.
+● It is responsive to different devises.
 
 https://github.com/Ketansoni04/news-app/assets/123319793/a5139185-c545-4769-9c29-94e79a93c365
 
